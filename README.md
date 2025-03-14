@@ -1,7 +1,3 @@
-Below is an example of a professional README in English that explains the project, its realtime features, and design decisions:
-
----
-
 # Penalty Shootout Game
 
 A simple yet fun simulation of a penalty shootout game built with ASP.NET Core, SignalR, and Redis. The project consists of two parts: a console application that simulates penalty shots with an amusing, ASCII-style display, and a web application (built with Razor Pages) that shows a live, realtime scoreboard.
