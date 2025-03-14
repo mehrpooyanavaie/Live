@@ -81,7 +81,10 @@ A simple yet fun simulation of a penalty shootout game built with ASP.NET Core, 
   Ideal for educational purposes or as a base project to demonstrate how different technologies (SignalR, Redis, Razor Pages) can work together.
 
 ---
+## 📜 License
 
+This project is open-source and free to use under the MIT License.
+---
 ## Contact
 
 For any questions or further discussions regarding SignalR, Redis, or any other aspect of this project, feel free to reach out via email.
